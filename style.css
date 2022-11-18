@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width:100%;
+  padding:20px 0;
+  margin:0 auto;
+  text-align:center;
+}
+header.heading{
+  font-size:32px;
+}
